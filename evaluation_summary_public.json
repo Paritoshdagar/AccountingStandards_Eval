@@ -1,0 +1,19 @@
+{
+  "release_date": "2026-02-17",
+  "total_cases": 5680,
+  "source_standards_count": 90,
+  "expected_outcome_counts": {
+    "READY": 2840,
+    "NEEDS_CLARIFICATION": 2840
+  },
+  "headline_metrics": {
+    "pass_cases": 5561,
+    "pass_rate": 0.979,
+    "soft_pass_rate": 0.979,
+    "status_match_rate": 0.979,
+    "clarification_hit_rate": 1.0,
+    "citation_valid_rate": 1.0,
+    "remaining_failures": 119
+  },
+  "residual_failure_pattern": "Expected READY but model requested clarification."
+}
